@@ -15,7 +15,6 @@ Este repositório reúne 7 exercícios práticos de lógica de programação, ma
 | [`ex05_sequencia_numeros.py`](./ex05_sequencia_numeros.py) | **5. Avaliação de Sequência Numérica (1 a N)** | Laços aninhados, divisores (número perfeito), múltiplos, biblioteca `math` |
 | [`ex06_pato.py`](./ex06_pato.py) | **6. Modelagem de um Pato (POO)** | Classes, atributos, construtor (`__init__`), métodos |
 | [`ex07_placa_mercosul.py`](./ex07_placa_mercosul.py) | **7. Conversor de Placas (Brasil / Mercosul)** | Dicionários, Expressões Regulares (`re`), manipulação de listas e strings |
-| [`teste.ipynb`](./teste.ipynb) | **Notebook Original** | Todos os exercícios reunidos em células Jupyter Notebook |
 
 ---
 
