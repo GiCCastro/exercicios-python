@@ -62,7 +62,7 @@ for i, v in enumerate(lista_placa):
             mercosul += 1
 
 
-transformado = "".join(lista_placa) #não me recordava como usar o join, então pesquisei
+transformado = "".join(lista_placa) 
 
 print(f"Para a Placa {placa_informada}")
 if brasil == 1:
